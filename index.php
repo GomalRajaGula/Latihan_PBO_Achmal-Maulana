@@ -261,7 +261,7 @@ try {
     <!-- Footer -->
     <footer class="mt-16 text-center text-xs text-slate-400 font-medium">
         <p>© 2026 CineTickets Project. All rights reserved.</p>
-        <p class="mt-1">Dibuat dengan ❤️ untuk PBO Kelas TRPL 1B - Achmal Maulana</p>
+        <p class="mt-1">Pra-Simulasi UAS PBO Kelas TRPL 1B - Achmal Maulana</p>
     </footer>
 
 </body>
